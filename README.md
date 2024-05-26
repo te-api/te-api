@@ -1,3 +1,5 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=te-api&theme=default)
+
 - 👋 Hi, I’m @te-api
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 te-api/te-api is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=te-api&theme=default)
